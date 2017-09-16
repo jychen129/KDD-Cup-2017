@@ -1,0 +1,22 @@
+{
+  "name": "visualisation",
+  "main": "index.js",
+  "authors": [
+    "u793966011 <793966011@tianchi.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "highcharts": "^5.0.9",
+    "lodash": "^4.17.4"
+  }
+}
